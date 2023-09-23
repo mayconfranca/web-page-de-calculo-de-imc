@@ -1,7 +1,7 @@
 {
   "name": "pagwebdecalculodeimc",
   "version": "0.1.0",
-  "homepage": "https://github.com/mayconfranca/web-page-de-calculo-de-imc.git",
+  "homepage": "https://mayconfranca.github.io/web-page-de-calculo-de-imc/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
