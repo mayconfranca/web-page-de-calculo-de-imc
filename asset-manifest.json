@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mayconfranca/web-page-de-calculo-de-imc.git/static/css/main.71c0ff82.css",
+    "main.js": "/mayconfranca/web-page-de-calculo-de-imc.git/static/js/main.635b3e2c.js",
+    "index.html": "/mayconfranca/web-page-de-calculo-de-imc.git/index.html",
+    "main.71c0ff82.css.map": "/mayconfranca/web-page-de-calculo-de-imc.git/static/css/main.71c0ff82.css.map",
+    "main.635b3e2c.js.map": "/mayconfranca/web-page-de-calculo-de-imc.git/static/js/main.635b3e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c0ff82.css",
+    "static/js/main.635b3e2c.js"
+  ]
+}
